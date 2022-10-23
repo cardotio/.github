@@ -4,13 +4,10 @@
     <img src="https://user-images.githubusercontent.com/66053034/197373825-4b2a7f26-0109-4cfd-b73d-b891f6da2d9c.png">
   </a>
 </p>
-<!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+<br/>
+<h3 align="center" style="font-weight: bold">Make your own business decks and cards</h3>
+<p align="center">
+  <a href="https://cardio.run.goorm.io">
+    <img src="https://user-images.githubusercontent.com/66053034/197374299-26a0f073-75d1-4b48-b1da-21aae718734b.png">
+  </a>
+</p>
